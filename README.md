@@ -17,6 +17,7 @@ Feel free to [pull requests](https://github.com/perara/awesome-capsule-networks/
 
 # Code
 ## Python
+   * https://github.com/XifengGuo/CapsNet-Keras
 ## LUA
    * https://github.com/gram-ai/capsule-networks
 
