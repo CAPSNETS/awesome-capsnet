@@ -8,6 +8,7 @@ Feel free to [pull requests](https://github.com/perara/awesome-capsule-networks/
 # Papers
 | Date | Title  | Author |
 | ------------- | ------------- | ------------- |
+| 2012 | Does the Brain do Inverse Graphics? [[Presentation](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10754.pdf)] | Geoffrey Hinton, Alex Krizhevsky, Navdeep Jaitly, Tijmen Tieleman & Yichuan Tang  
 | 26.10.17 | Dynamic Routing Between Capsules [[Paper](https://arxiv.org/abs/1710.09829)] | Sara Sabour, Nicholas Frosst, Geoffrey E Hinton |
 | 26.10.17 | Matrix Capsules With EM Routing  [[Paper](https://openreview.net/pdf?id=HJWLfGWRb)] | Geoffrey E Hinton, Sara Sabour, Nicholas Frosst |
 | 10.12.17 | Capsule Network Performance on Complex Data [[Paper](https://arxiv.org/abs/1712.03480)] | Edgar Xi, Selina Bing, Yang Jin |
