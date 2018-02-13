@@ -8,10 +8,11 @@ Feel free to [pull requests](https://github.com/perara/awesome-capsule-networks/
 # Papers
 | Date | Title  | Author |
 | ------------- | ------------- | ------------- |
-| Dynamic Routing Between Capsules [[Paper](https://arxiv.org/pdf/1710.09829)] | Sara Sabour, Nicholas Frosst, Geoffrey E Hinton |
-| Matrix Capsules With EM Routing  [[Paper](https://openreview.net/pdf?id=HJWLfGWRb)] | |
-| Capsule Network Performance on Complex Data [[Paper](https://arxiv.org/pdf/1712.03480)] | Edgar Xi, Selina Bing, Yang Jin |
-| Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule networkarchitecture[[Paper](https://arxiv.org/pdf/1801.00602.pdf)] | Kai Qiao, Chi Zhang, Linyuan Wang, Bin Yan, Jian Chen, Lei Zeng, Li Tong |
+| 26.10.17 | Dynamic Routing Between Capsules [[Paper](https://arxiv.org/abs/1710.09829)] | Sara Sabour, Nicholas Frosst, Geoffrey E Hinton |
+| 26.10.17 | Matrix Capsules With EM Routing  [[Paper](https://openreview.net/pdf?id=HJWLfGWRb)] | Geoffrey E Hinton, Sara Sabour, Nicholas Frosst |
+| 10.12.17 | Capsule Network Performance on Complex Data [[Paper](https://arxiv.org/abs/1712.03480)] | Edgar Xi, Selina Bing, Yang Jin |
+| 02.01.18 | Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule networkarchitecture[[Paper](https://arxiv.org/abs/1801.00602.pdf)] | Kai Qiao, Chi Zhang, Linyuan Wang, Bin Yan, Jian Chen, Lei Zeng, Li Tong |
+| 29.01.18 | Deep Reinforcement Learning using Capsules in Advanced Game Environments [[Paper](https://arxiv.org/abs/1801.09597)] | Per-Arne Andersen
 
 # Code
 | URL  | Language | Description | Dataset |
